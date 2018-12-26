@@ -1,2 +1,0 @@
-# ChuckNorrisTDD
-Created with CodeSandbox
